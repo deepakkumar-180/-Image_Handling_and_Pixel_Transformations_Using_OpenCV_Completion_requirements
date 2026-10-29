@@ -206,12 +206,11 @@ plt.show()
 ```
 
 ## Output:
-```<img width="552" height="395" alt="download" src="https://github.com/user-attachments/assets/7b476192-a9fd-427b-8836-eb5482e4442d" />
+<img width="552" height="395" alt="download" src="https://github.com/user-attachments/assets/7b476192-a9fd-427b-8836-eb5482e4442d" />
 <img width="552" height="395" alt="download" src="https://github.com/user-attachments/assets/603e5b44-c759-4d4c-88f4-61d3d543e2c5" />
 <img width="552" height="340" alt="download" src="https://github.com/user-attachments/assets/9e34f4fc-58aa-4534-bfc3-15e26d22736d" />
 <img width="561" height="311" alt="download" src="https://github.com/user-attachments/assets/f273937f-f9b8-4e8f-acfd-affcb6ef1009" />
 <img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/2ec77208-1c01-408f-8863-cfa1e8604350" />
-```
 <img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/0d24ed06-261f-4f6e-8346-51ec6f13ad98" />
 <img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/db67d0f3-e2d6-4d71-9626-2e5f457e209d" />
 <img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/5ddd529e-b21d-4365-b63e-5c1d62eb19b7" />
