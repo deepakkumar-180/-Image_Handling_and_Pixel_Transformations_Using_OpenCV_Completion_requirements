@@ -1,0 +1,1 @@
+# -Image_Handling_and_Pixel_Transformations_Using_OpenCV_Completion_requirements
