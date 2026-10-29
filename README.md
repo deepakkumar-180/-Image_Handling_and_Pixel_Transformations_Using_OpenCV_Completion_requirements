@@ -78,7 +78,7 @@ plt.show()
 ```
 
 #### 7. Crop the image to extract any specific (Eagle alone) object from the image.
-``
+```
 crop = color[100:400, 100:400]
 ```
 
