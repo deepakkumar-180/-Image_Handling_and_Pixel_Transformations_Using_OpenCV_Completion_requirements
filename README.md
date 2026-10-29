@@ -1,4 +1,4 @@
-# EXP1-Image_Handling_and_Pixel_Transformations_Using_OpenCV_Completion_requirements
+# EXP1 - Image_Handling_and_Pixel_Transformations_Using_OpenCV_Completion_requirements
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
