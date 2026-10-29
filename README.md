@@ -206,6 +206,25 @@ plt.show()
 ```
 
 ## Output:
+```<img width="552" height="395" alt="download" src="https://github.com/user-attachments/assets/7b476192-a9fd-427b-8836-eb5482e4442d" />
+<img width="552" height="395" alt="download" src="https://github.com/user-attachments/assets/603e5b44-c759-4d4c-88f4-61d3d543e2c5" />
+<img width="552" height="340" alt="download" src="https://github.com/user-attachments/assets/9e34f4fc-58aa-4534-bfc3-15e26d22736d" />
+<img width="561" height="311" alt="download" src="https://github.com/user-attachments/assets/f273937f-f9b8-4e8f-acfd-affcb6ef1009" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/2ec77208-1c01-408f-8863-cfa1e8604350" />
+```
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/0d24ed06-261f-4f6e-8346-51ec6f13ad98" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/db67d0f3-e2d6-4d71-9626-2e5f457e209d" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/5ddd529e-b21d-4365-b63e-5c1d62eb19b7" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/81323089-80ec-438c-a0b3-6eb07b7aa2f7" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/711338e7-225e-40ec-bb35-55a860d35c7f" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/5b454ff3-bd0b-47ea-bb86-0df558a1e81f" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/30c20e2f-ec88-4f13-bdba-b21e5bce6465" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/c27981ae-4c06-4828-bd51-609a147c5f6b" />
+<img width="475" height="389" alt="download" src="https://github.com/user-attachments/assets/7a408cfa-2dfe-449c-bc03-42af7589960b" />
+<img width="475" height="411" alt="download" src="https://github.com/user-attachments/assets/eae1bfdd-7000-4a46-b86a-626727013d27" />
+
+
+
 - **i)** Read and Display an Image.  
 - **ii)** Adjust Image Brightness.  
 - **iii)** Modify Image Contrast.  
